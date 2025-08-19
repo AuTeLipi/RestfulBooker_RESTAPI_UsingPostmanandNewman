@@ -1,4 +1,4 @@
-# 📘 Restful Booker API - Postman Automation with Newman
+# 🏨 Restful Booker API - Postman Automation with Newman
 
 ---
 
