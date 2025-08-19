@@ -1,6 +1,5 @@
 # 🏨 Restful Booker API - Postman Automation with Newman
 
----
 
 ## 🔍 Project Overview
 - This project leverages Postman and Newman to perform comprehensive testing of the Restful Booker API, which simulates hotel booking operations. It encompasses a full range of CRUD operations through both individual test cases and end-to-end (E2E) scenarios, ensuring robust validation of API behavior across diverse input conditions.
