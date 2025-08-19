@@ -25,7 +25,7 @@
 | `RestfulBooker_Postman_Newmans_Report.html`                               | Newman-generated HTML report                   |
 | `Test Plan – Restful-Booker REST API.docx`                                | Test plan document                             |
 | `Restful API - Hotel Booking (Testcases).xlsx`                            | Spreadsheet of all test scenarios              |
-| `Bugs/`                                                                   | Folder containing known issues or bug reports  |
+| `Bugs found/`                                                             | Folder containing known issues or bug reports  |
 
 ---
 
