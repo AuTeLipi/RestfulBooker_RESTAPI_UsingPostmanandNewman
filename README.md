@@ -1,4 +1,4 @@
-<img width="1918" height="1031" alt="image" src="https://github.com/user-attachments/assets/17e0d1e4-6387-4d74-92d9-66b7ad74ee0b" /># 📘 Restful Booker API - Postman Automation with Newman
+# 📘 Restful Booker API - Postman Automation with Newman
 
 ---
 
