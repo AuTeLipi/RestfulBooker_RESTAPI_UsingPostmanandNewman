@@ -21,7 +21,7 @@
 | File / Folder                                                             | Description                                    |
 | ------------------------------------------------------------------------- | ---------------------------------------------- |
 | `Project 02# - Restful Booker - With Requirement.postman_collection.json` | Main Postman collection containing all tests   |
-| `EEnvironment Files/`                                                     | Environment files for different test scenarios |
+| `Environment Variables Files/`                                            | Environment files for different test scenarios |
 | `RestfulBooker_Postman_Newmans_Report.html`                               | Newman-generated HTML report                   |
 | `Test Plan – Restful-Booker REST API.docx`                                | Test plan document                             |
 | `Restful API - Hotel Booking (Testcases).xlsx`                            | Spreadsheet of all test scenarios              |
