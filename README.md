@@ -1,4 +1,4 @@
-# 📘 Restful Booker API - Postman Automation with Newman
+<img width="1918" height="1031" alt="image" src="https://github.com/user-attachments/assets/17e0d1e4-6387-4d74-92d9-66b7ad74ee0b" /># 📘 Restful Booker API - Postman Automation with Newman
 
 ---
 
@@ -22,7 +22,7 @@
 | File / Folder                                                             | Description                                    |
 | ------------------------------------------------------------------------- | ---------------------------------------------- |
 | `Project 02# - Restful Booker - With Requirement.postman_collection.json` | Main Postman collection containing all tests   |
-| `Env_TCXX.postman_environment.json`                                       | Environment files for different test scenarios |
+| `EEnvironment Files/`                                                     | Environment files for different test scenarios |
 | `RestfulBooker_Postman_Newmans_Report.html`                               | Newman-generated HTML report                   |
 | `Test Plan – Restful-Booker REST API.docx`                                | Test plan document                             |
 | `Restful API - Hotel Booking (Testcases).xlsx`                            | Spreadsheet of all test scenarios              |
